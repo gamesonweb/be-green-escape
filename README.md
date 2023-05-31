@@ -1,4 +1,4 @@
-# escape
+# EscApe
 
 Jeu produit par Léo BAZOT - Liam BUAND - Marie DELAMONT
 
